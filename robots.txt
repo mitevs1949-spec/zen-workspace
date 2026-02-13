@@ -1,0 +1,10 @@
+User-agent: *
+Allow: /
+Sitemap: https://zen-workspace.sproutern.com/sitemap.xml
+
+# Regional Targets
+User-agent: Googlebot
+Allow: /
+
+User-agent: Bingbot
+Allow: /
